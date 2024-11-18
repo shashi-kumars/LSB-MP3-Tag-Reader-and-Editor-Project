@@ -69,7 +69,7 @@ Users can use the tool to add custom tags or notes to their MP3 files for better
 Content Distribution:
 Musicians or content creators can use this tool to properly tag their MP3 files before distributing them online to ensure the metadata reflects correct information.
 
-10. Conclusion
+10. Conclusion:
 The MP3 Tag Reader and Editor project provides a practical solution for managing and editing metadata in MP3 files. It covers basic operations like reading and editing tags using standard C programming and file handling techniques. The project offers a deeper understanding of binary file operations, string manipulation, and media metadata formats. While relatively simple for ID3v1, handling ID3v2 introduces more complexity, but also offers richer metadata possibilities. Future improvements could include support for batch editing, integration with other media libraries, or building a GUI for ease of use.
 
 
